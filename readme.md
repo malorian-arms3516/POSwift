@@ -1,3 +1,3 @@
 # POSwift
 
-## A C# program tha is building using 'WinFormApp' documentation to be followed.
+###### A C# program that is built using `WinFormApp` documentation to be followed.
