@@ -6,8 +6,8 @@
 
 1. Visual Studio 2022
 
-..*SQLite Database
-..*.NET 8.0 SDK
-..*C# Development(WinFormApp)
+*SQLite Database
+*.NET 8.0 SDK
+*C# Development(WinFormApp)
 
 
