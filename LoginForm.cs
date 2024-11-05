@@ -7,6 +7,7 @@ namespace POSwift
         public LoginForm()
         {
             InitializeComponent();
+            passwordTextBox.UseSystemPasswordChar = true; // For keeping the Credential Boxed set to True before interaction with the actual checkbox.
         }
 
         private void label1_Click(object sender, EventArgs e)
