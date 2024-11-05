@@ -1,15 +1,3 @@
-tang inamo tristan john magpayo
+# POSwift
 
-
-nagalulo si ernest ele benedicto
-
-Author: Tristan John Magpayo
-Date: 10/30/2024
-
-Message:
-
-This is the fire base on the system
-
-Doing Firebase Integration 🔥🔥🔥🔥🔥🔥
-
-panat si isaac narcissus concepcion agnat
+## A C# program tha is building using 'WinFormApp' documentation to be followed.
