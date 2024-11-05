@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("POSwift")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9c730dc27596947daefcc0e415629f9012ce5cd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b1b66806460bfd461cd6b4db5ae48967c2571a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("POSwift")]
 [assembly: System.Reflection.AssemblyTitleAttribute("POSwift")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
