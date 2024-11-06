@@ -1,12 +1,13 @@
-## POSwift
+~~## POSwift~~
 
-#### A C# program that is built using `WinFormApp` documentation to be followed.
+~~#### A C# program that is built using `WinFormApp` documentation to be followed.~~
 
 ## Prerequisites
 
-1. Visual Studio 2022
-    1. .NET 8.0 SDK
-    2. SQLite Database using `Nuget Package Manager`
-    3. .NET Development for C#. `WinFormApp`
+~~1. Visual Studio 2022~~
+    ~~1. .NET 8.0 SDK~~
+    ~~2. SQLite Database using `Nuget Package Manager`~~
+    ~~3. .NET Development for C#. `WinFormApp`~~
 
+### Project is scrapped for now, awaiting next project confirmation.
 
